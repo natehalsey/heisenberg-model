@@ -1,3 +1,5 @@
+#ifndef HEISENBERGHEADERDEF
+#define HEISENBERGHEADERDEF
 #include <iostream>
 class Heisenberg
 {
