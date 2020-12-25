@@ -97,12 +97,6 @@ double Heisenberg::random(double m, double n)
 {
     return m + (rand() / ( RAND_MAX / (n-m)));
 }
-int main(int argc, char const *argv[])
-{
-    /* code */
-    return 0;
-}
-
 void Heisenberg::trialSpin(int element)
 {
     double EnergyOld = CalculateEnergy();
